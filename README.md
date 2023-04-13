@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">Software Developer and Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on [StableDiffusion FlowUI](https://github.com/aaronlockhartdev/sd-flowui)
+- 🔭 I’m currently working on [Stable Diffusion FlowUI](https://github.com/aaronlockhartdev/sd-flowui)
 
 - 🧠 I’m currently learning **Elixir and Rust**
 
