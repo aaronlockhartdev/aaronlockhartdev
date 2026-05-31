@@ -29,5 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaronlockhartdev&show_icons=true&locale=en&layout=compact" alt="aaronlockhartdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaronlockhartdev&show_icons=true&locale=en" alt="aaronlockhartdev" /></p>
+<p>&nbsp;<img align="center" src="./profile/stats.svg" alt="aaronlockhartdev" /></p>
 
