@@ -2,8 +2,6 @@
 
 ### An experienced Python developer and ML engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronlockhartdev&label=Profile views&color=0e75b6&style=flat" alt="aaronlockhartdev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="./profile/trophy.svg" /></a> </p>
 
 - 🔭 I'm currently working on **QDMS**
